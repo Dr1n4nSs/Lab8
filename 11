@@ -28,3 +28,26 @@ public static void SaveDatabase(string path, List<Exhibit> list)
         Console.WriteLine($"Критическая ошибка при сохранении: {ex.Message}");
     }
 }
+static void RemoveExhibit()
+{
+    Console.Write("Введите инв. номер для удаления: ");
+    string id = Console.ReadLine();
+
+    // Сохраняем количество удаленных записей
+    int removedCount = database.RemoveAll(e => e.InventoryNumber == id);
+
+    if (removedCount > 0)
+    {
+        // Если что-то удалили, сохраняем изменения в файл
+        MuseumService.SaveDatabase(dbPath, database);
+        Console.WriteLine($"Успешно удалено экспонатов: {removedCount}.");
+    }
+    else
+    {
+        // Если список остался прежним — выводим ошибку
+        Console.WriteLine($"Ошибка: Экспонат с номером '{id}' не найден в базе данных.");
+    }
+
+    Console.WriteLine("Нажмите любую клавишу...");
+    Console.ReadKey();
+}
