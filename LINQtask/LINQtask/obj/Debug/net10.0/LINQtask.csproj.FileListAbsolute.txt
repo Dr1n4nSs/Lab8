@@ -1,0 +1,14 @@
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\bin\Debug\net10.0\LINQtask.exe
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\bin\Debug\net10.0\LINQtask.deps.json
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\bin\Debug\net10.0\LINQtask.runtimeconfig.json
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\bin\Debug\net10.0\LINQtask.dll
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\bin\Debug\net10.0\LINQtask.pdb
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.AssemblyInfoInputs.cache
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.AssemblyInfo.cs
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.csproj.CoreCompileInputs.cache
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.dll
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\refint\LINQtask.dll
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.pdb
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\LINQtask.genruntimeconfig.cache
+C:\Users\Иван\RiderProjects\LINQtask\LINQtask\obj\Debug\net10.0\ref\LINQtask.dll

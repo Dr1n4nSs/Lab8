@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExhibit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exhibit>
+    <InventoryN>1</InventoryN>
+    <Title>Ваза</Title>
+    <CreationYear>1890</CreationYear>
+    <Value>1000000</Value>
+    <IsRestored>true</IsRestored>
+  </Exhibit>
+  <Exhibit>
+    <InventoryN>2</InventoryN>
+    <Title>Чаша</Title>
+    <CreationYear>1780</CreationYear>
+    <Value>1000100</Value>
+    <IsRestored>true</IsRestored>
+  </Exhibit>
+  <Exhibit>
+    <InventoryN>4</InventoryN>
+    <Title>арфа</Title>
+    <CreationYear>1500</CreationYear>
+    <Value>2000000000</Value>
+    <IsRestored>true</IsRestored>
+  </Exhibit>
+  <Exhibit>
+    <InventoryN>5</InventoryN>
+    <Title>Корона</Title>
+    <CreationYear>1300</CreationYear>
+    <Value>2000000000</Value>
+    <IsRestored>false</IsRestored>
+  </Exhibit>
+  <Exhibit>
+    <InventoryN>3</InventoryN>
+    <Title>Лук</Title>
+    <CreationYear>800</CreationYear>
+    <Value>800000</Value>
+    <IsRestored>false</IsRestored>
+  </Exhibit>
+  <Exhibit>
+    <InventoryN>7</InventoryN>
+    <Title>Кольцо</Title>
+    <CreationYear>1801</CreationYear>
+    <Value>390000</Value>
+    <IsRestored>false</IsRestored>
+  </Exhibit>
+</ArrayOfExhibit>
